@@ -1,4 +1,3 @@
-<h2 align="center">안녕하세요. 새로운 것을 하는걸 좋아하는 개발자입니다. 👋🤓</h2>
 
 ## Skill Set 💪
 **Programming Languages**
