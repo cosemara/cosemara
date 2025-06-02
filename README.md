@@ -21,7 +21,8 @@
 ![JSP](https://img.shields.io/badge/JSP-323330.svg?&style=for-the-badge&logo=JSP&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-269539.svg?&style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-
+![REACT](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![NEXTJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 <hr>
 
 ## Server 💻
